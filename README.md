@@ -1,4 +1,4 @@
-# Stable Release Channel
+# Canary Release Channel
 
 Builds of my [Ryujinx fork](https://github.com/GreemDev/Ryujinx) compiled &amp; released after every commit to the repository.
 
